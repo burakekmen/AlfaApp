@@ -123,8 +123,8 @@
 			isa = PBXGroup;
 			children = (
 				67E19B352E9FB2F500E51E33 /* AlfaPlayerKit */,
-				673310742E9FB1C400554D22 /* AlfaData */,
 				673310532E9FAC0A00554D22 /* AlfaDomain */,
+				673310742E9FB1C400554D22 /* AlfaData */,
 				67FCB95C2E9D4A56005C63B7 /* AlfaApp */,
 				67FCB9732E9D4A57005C63B7 /* AlfaAppTests */,
 				67FCB97D2E9D4A57005C63B7 /* AlfaAppUITests */,
@@ -346,6 +346,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlfaApp/AlfaApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KSMNAM32VA;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AlfaApp/AppCore/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Alfa;
@@ -375,6 +376,7 @@
 				CODE_SIGN_ENTITLEMENTS = AlfaApp/AlfaApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KSMNAM32VA;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AlfaApp/AppCore/Resources/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Alfa;
